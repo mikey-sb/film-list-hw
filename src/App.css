@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.film-list {
+  border: 5px red solid;
+}
+
+.film-box {
+  border: 5px blue solid;
+
+}
+
+.film {
+  border: 5px green solid;
+
+}
