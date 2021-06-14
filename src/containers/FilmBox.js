@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import FilmList from "../components/FilmList.js"
 
 const FilmBox = () => {
-    const [films, setFilms] = useState (        
+    const [films] = useState (        
         [
             {
               id: 1,
